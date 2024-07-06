@@ -13,7 +13,9 @@ A passionate and skilled computer science student dedicated to mastering the art
 
 I'm very good at what I do, and I'm always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects!<br/>
 
+
 # 💻 Tech Stack
+<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif"><br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +36,8 @@ I'm very good at what I do, and I'm always eager to learn and explore new techno
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br/>
+<p/>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=d-kibet&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
